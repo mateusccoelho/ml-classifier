@@ -1,0 +1,10 @@
+0	Motorola-Nexus-6
+1	HTC-1-M7
+2	Motorola-Droid-Maxx
+3    	iPhone-6
+4    	LG-Nexus-5x
+5    	Samsung-Galaxy-S4
+6    	Samsung-Galaxy-Note3
+7    	iPhone-4s
+8	Motorola-X
+9   	Sony-NEX-7
